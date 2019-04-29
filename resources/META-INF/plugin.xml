@@ -5,6 +5,7 @@
     <vendor email="justsid@widerwille.com" url="http://widerwille.com">Sidney Just</vendor>
 
     <description><![CDATA[
+      <img src="https://raw.githubusercontent.com/JustSid/AfterglowIntelliJ/master/Screenshot.png"/>
       <p>Theme based on the <a href="https://github.com/YabataDesign/afterglow-theme">Afterglow Sublime Text</a> theme. It replaces the sidebar icons and sidebar background colour, source code is available
       under the MIT license on <a href="https://github.com/JustSid/AfterglowIntelliJ">Github</a>. This theme is an extension of the Darcular theme, which should be applied.</p>
       <p>Forks and pull requests are welcome, although I also take Github issues :)</p>
